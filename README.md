@@ -1,2 +1,10 @@
 # EEE_assignment_1
-Computer Programming Assignment 1
+Computer Programming 1
+EEE B1 
+year 2
+authors: JIMMY MACHACHARIA ENE211-0045/2021
+         FRANCIS MUNGAI    ENE211-0015/2021
+         MANASSES KARIUKI  ENE211-0007/2021
+         SAMUEL KAIRA      ENE211-0205/2021
+         GEORGE WAMATHU    ENE211-0005/2021
+         ANTHONY MAINA     ENE211-0211/2021
