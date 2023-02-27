@@ -1,0 +1,15 @@
+#include <stdio.h>
+#define length x
+#define width y
+
+int main()
+{
+    int area,x,y;
+    printf("Please enter length & width:");
+    scanf("%d %d",&x,&y);
+    area = x * y ;
+    printf("The length is %d",x);
+    printf("\nThe width is %d",y);
+    printf("\nThe area is %d",area);
+    return 0;
+}
